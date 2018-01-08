@@ -28,3 +28,17 @@ class Solution:
             head = next
 
         return dummy.next
+
+        # dummy = ListNode(0)
+
+        # while head:
+        #     temp = dummy
+        #     next = head.next
+        #     while temp.next and temp.next.val < head.val:
+        #         temp = temp.next
+
+        #     head.next = temp.next
+        #     temp.next = head
+        #     head = next
+
+        # return dummy.next

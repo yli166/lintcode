@@ -4,35 +4,31 @@ class Solution(object):
         :type head: ListNode
         :rtype: void Do not return anything, modify head in-place instead.
         """
-        if head is None or head.next is None or head.next.next is None:
-            head = head
-        else:
+        if None == head or None == head.next:
+            return head
 
-            slow = fast = head  # two parts
-            while fast.next and fast.next.next:
-                slow = slow.next
-                fast = fast.next.next
+        pfast = head
+        pslow = head
 
-            head2 = slow.next
-            slow.next = None
+        while pfast.next and pfast.next.next:
+            pfast = pfast.next.next
+            pslow = pslow.next
+        pfast = pslow.next
+        pslow.next = None
 
-            dummy = ListNode(0)  # reverse 2nd part
-            dummy.next = head2
-            p = head2.next
-            head2.next = None     #设置中间值   #######################head2 = ListNode(head.val) head2.next = head.next ############################
-            while p:
-                tmp = p
-                p = p.next
-                tmp.next = dummy.next
-                dummy.next = tmp
-            head2 = dummy.next
+        pnext = pfast.next
+        pfast.next = None
+        while pnext:
+            q = pnext.next
+            pnext.next = pfast
+            pfast = pnext
+            pnext = q
 
-            p1 = head  # rejoin 2 parts together
-            p2 = head2
-            while p2:
-                t1 = p1.next
-                p1.next = p2
-                t2 = p2.next
-                p2.next = t1
-                p1 = t1
-                p2 = t2
+        tail = head
+        while pfast:
+            pnext = pfast.next
+            pfast.next = tail.next
+            tail.next = pfast
+            tail = tail.next.next
+            pfast = pnext
+        return head
