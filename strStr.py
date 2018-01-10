@@ -6,17 +6,10 @@ class Solution:
     """
 
     def strStr(self, source, target):
-        # write your code here
         if source is None or target is None:
             return -1
 
-        first = target[0]
-
-        length = len(target)
-        length2 = len(source)
-
-        for i in range(length2 - length + 1):
-            if source[i: i + length] == target[:]:
-                return 1
-
+        for i in range(len(source)-len(target)+1):
+            if source[i:i+len(target)] == target:
+                return i
         return -1

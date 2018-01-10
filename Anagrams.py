@@ -46,3 +46,4 @@ class Solution:
 #             if len(dict[item]) >= 2:
 #                 res += dict[item]
 #         return res
+# 关键是[each]

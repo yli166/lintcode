@@ -6,7 +6,7 @@ class Solution:
 
     def removeDuplicates(self, nums):
         # write your code here
-
+        # 快慢指针 遇到相同值则跳过
         n = 0
 
         if len(nums) == 1:
@@ -15,7 +15,6 @@ class Solution:
         for i in range(len(nums)):
             if nums[i] == nums[i - 1]:
                 continue
-
             nums[n] = nums[i]
             n += 1
 
