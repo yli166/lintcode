@@ -6,7 +6,6 @@ class Solution:
     """
 
     def searchInsert(self, A, target):
-        # write your code here
         if len(A) == 0 or not A:
             return 0
         start = 0

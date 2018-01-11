@@ -16,6 +16,8 @@ class Solution:
         end = len(A) - 1
         left = -1
         right = -1
+        # 使用两次二分搜索 找到left 和 right
+        # 先判断 A[0] A[-1]
         if A[0] == target:
             left = 0
         else:
