@@ -1,3 +1,4 @@
+import collections
 """
 Definition of ListNode
 class ListNode(object):
@@ -13,16 +14,13 @@ class Solution:
     @param: head: head is the head of the linked list
     @return: head of the linked list
     """
-    def deleteDuplicates(self, head):
-        dummy = pre = ListNode(0)
-        dummy.next = head
-        while head and head.next:
-            if head.val == head.next.val:
-                while head and head.next and head.val == head.next.val:
-                    head = head.next
-                head = head.next
-                pre.next = head
-            else:
-                pre = pre.next
-                head = head.next
-        return dummy.next
+    def copyRandomList(self, head):
+        dic = collections.defaultdict(lambda: RandomListNode(0))
+        dic[None] = None
+        n = head
+        while n:
+            dic[n].label = n.label
+            dic[n].next = dic[n.next]
+            dic[n].random = dic[n.random]
+            n = n.next
+        return dic[head]

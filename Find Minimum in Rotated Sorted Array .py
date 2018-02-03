@@ -1,20 +1,30 @@
 class Solution:
-    """
-    @param: nums: a rotated sorted array
-    @return: the minimum number in the array
-    """
-
+    # @param nums: a rotated sorted array
+    # @return: the minimum number in the array
     def findMin(self, nums):
-        # write your code here
+        # if len(nums) == 0:
+        #     return 0
 
-        if nums == 1:
+        # start, end = 0, len(nums) - 1
+        # target = nums[-1]
+        # while start + 1 < end:
+        #     mid = (start + end) / 2
+        #     if nums[mid] <= target:
+        #         end = mid
+        #     else:
+        #         start = mid
+        # return min(nums[start], nums[end])
+        if len(nums) == 0:
+            return 0
+
+        start, end = 0, len(nums) - 1
+        if nums[start] < nums[end]:
             return nums[0]
-        # 注意nums[0 - 1] = -1 的情况
-        if nums[0] > nums[1]:
-            return nums[1]
-
-        for i in range(len(nums)):
-            if i > 0 and nums[i - 1] > nums[i]:
-                return nums[i]
-
-        return nums[0]
+        else:
+            while start + 1 < end:
+                mid = (start + end) / 2
+                if nums[start] < nums[mid]:
+                    start = mid
+                else:
+                    end = mid
+            return min(nums[start], nums[end])
