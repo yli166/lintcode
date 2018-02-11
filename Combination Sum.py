@@ -1,19 +1,26 @@
 class Solution:
-    # @param candidates, a list of integers
-    # @param target, integer
-    # @return a list of lists of integers
+    """
+    @param: candidates: A list of integers
+    @param: target: An integer
+    @return: A list of lists of integers
+    """
+
+    def __init__(self):
+        self.output = []
+
     def combinationSum(self, candidates, target):
-        # write your code here
-        candidates = list(set(candidates))
+        res = []
         candidates.sort()
-        Solution.ret = []
-        self.DFS(candidates, target, 0, [])
-        return Solution.ret
-    def DFS(self, candidates, target, start, valuelist):
-        length = len(candidates)
+        self.dfs(candidates, target, 0, [])
+        return self.output
+
+    def dfs(self, nums, target, index, path):
+        if target < 0:
+            return  # backtracking
         if target == 0:
-            return Solution.ret.append(valuelist)
-        for i in range(start, length):
-            if target < candidates[i]:
-                return
-            self.DFS(candidates, target - candidates[i], i, valuelist + [candidates[i]])
+            self.output.append(path)
+            return
+        for i in range(index, len(nums)):
+            self.dfs(nums, target - nums[i], i, path + [nums[i]])
+
+

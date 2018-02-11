@@ -5,38 +5,21 @@ class Solution:
     """
 
     def minimumTotal(self, triangle):
-        # write your code here
-        # sum = 0
-        # for i in triangle:
-        #     test = i[0]
-        #     for j in i:
-        #         test = min(test, j)
+        # if not triangle:
+        #     return
+        # res = [[0 for i in xrange(len(row))] for row in triangle]
+        # res[0][0] = triangle[0][0]
+        # for i in xrange(1, len(triangle)):
+        #     for j in xrange(len(triangle[i])):
+        #         if j == 0:
+        #             res[i][j] = res[i-1][j] + triangle[i][j]
+        #         elif j == len(triangle[i])-1:
+        #             res[i][j] = res[i-1][j-1] + triangle[i][j]
+        #         else:
+        #             res[i][j] = min(res[i-1][j-1], res[i-1][j]) + triangle[i][j]
+        # return min(res[-1])
 
-        #     sum += test
-
-        # return sum
-
-        # if len(triangle) == 1:
-        #     return triangle[0][0]
-
-        # position = 0
-        # start = 0
-        # end = len(triangle)
-        # sum = triangle[0][0]
-
-        # while start < end - 1:
-        #     # minvalue = min(triangle[start + 1][position],triangle[start + 1][position + 1])
-        #     if triangle[start + 1][position] > triangle[start + 1][position + 1]:
-        #         position += 1
-        #         sum += triangle[start + 1][position + 1]
-        #     else:
-        #         sum += triangle[start + 1][position]
-
-        #     start += 1
-
-        # return sum
-
-        # 倒着算
+        # åçç®
 
         end = len(triangle) - 1
         last = triangle[end]

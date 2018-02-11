@@ -14,6 +14,7 @@ class Solution:
         if not nums:
             result.append(current)
 
-        for ind, val in enumerate(nums):
-            if ind - 1 >= 0 and val == nums[ind - 1]: continue
-            self.get_permute(nums[:ind] + nums[ind + 1:], current + [val], result)
+        for i in range(len(nums)):
+            if i >  0 and nums[i] == nums[i -1]:
+                continue
+            self.get_permute(nums[:i] + nums[i + 1:],current + [nums[i]],result)

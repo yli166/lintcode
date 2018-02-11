@@ -28,13 +28,14 @@ class Solution:
 
         # recursion
         result = []
+        nums.sort()
         self.get_permute(nums, [], result)
         return result
 
-    def get_permute(self, seq, current, result):
-        length = len(seq)
-        if length == 0:
+    def get_permute(self, nums, current, result):
+        if not nums:
             result.append(current)
 
-        for ind, val in enumerate(seq):
-            self.get_permute(seq[:ind] + seq[ind + 1:], current + [val], result)
+        for i in range(len(nums)):
+            # if ind-1>=0 and val==nums[ind-1]: continue  # JUMP; only need to compare to previous value
+            self.get_permute(nums[:i] + nums[i + 1:], current + [nums[i]], result)

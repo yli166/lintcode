@@ -9,37 +9,17 @@ class Solution:
 
         if len(nums) == 1 or len(nums) == 0:
             return nums[0]
+        if not nums:
+            return 0
 
-        # maxproduct = 1
-        # minproduct = 1
-        # n = 0
-        # product = 1
-
-        # for i in range(len(nums)):
-        #     if nums[i] == 0:
-        #         n = 0
-        #         minproduct = 1
-        #         product = 1
-        #         continue
-        #     product *= nums[i]
-
-        #     if nums[i] < 0 and n % 2 == 0:
-        #         n += 1
-        #         maxproduct = max(maxproduct, product / minproduct)
-        #         minproduct = min(minproduct,product)
-        #         continue
-
-        #     if nums[i] < 0 and n % 2 == 1:
-        #         n += 1
-        #         maxproduct = max(maxproduct,product)
-        #         minproduct = 1
-        #         continue
-        #     if nums[i] > 0 and n % 2 == 1:
-        #         maxproduct = max(maxproduct, product / minproduct)
-        #     if nums[i] > 0 and n % 2 == 0:
-        #         maxproduct = max(maxproduct,product)
-
-        # return maxproduct
+        # res = nums[0]
+        # min_p = max_p = nums[0]
+        # for i in xrange(1, len(nums)):
+        #     tmp = min_p
+        #     min_p = min(nums[i], min_p * nums[i], max_p * nums[i])
+        #     max_p = max(nums[i], max_p * nums[i], tmp * nums[i])
+        #     res = max(res, max_p)
+        # return res
 
         neg, pos, maxp = 1, 1, 0
 
