@@ -20,3 +20,13 @@ class Solution:
                 slow += 1
 
         return slow
+slow = 0
+fast = 0
+nums = [1,1,1,2,2,3]
+while fast < len(nums):
+    if fast < len(nums) - 1 and nums[fast] == nums[fast + 1]:
+        fast += 1
+    else:
+        nums[slow], nums[fast] = nums[fast], nums[slow]
+        fast += 1
+        slow += 1

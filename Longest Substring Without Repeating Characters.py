@@ -5,7 +5,7 @@ class Solution(object):
         left = 0
         last = {}    # 用last来做游标 记录i上次出现的位置
         for i in range(len(s)):
-            # 子串中出现重复字符，变更left至上一次s[i]出现位置之后，使得子串合法
+            # 最关键的一步 子串中出现重复字符，变更left至上一次s[i]出现位置之后，使得子串合法
             if s[i] in last and last[s[i]] >= left:
                 left = last[s[i]] + 1
             last[s[i]] = i

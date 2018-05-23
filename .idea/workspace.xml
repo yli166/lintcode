@@ -2,26 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ceaacf1-6b5d-4c50-8b69-80328ca8bdb1" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/###wordBreak.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Backpack.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Combination Sum II.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Longest Increasing Subsequence.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Maximum Subarray II.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Minimum Subarray.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/N-Queens.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Palindrome Partitioning.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Remove Node in Binary Search Tree.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unique Paths II.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ugly Number II.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/lintcode.iml" afterPath="$PROJECT_DIR$/.idea/lintcode.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Best Time to Buy and Sell Stock III.py" afterPath="$PROJECT_DIR$/Best Time to Buy and Sell Stock III.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Climbing Stairs.py" afterPath="$PROJECT_DIR$/Climbing Stairs.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Combination Sum.py" afterPath="$PROJECT_DIR$/Combination Sum.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Combinations.py" afterPath="$PROJECT_DIR$/Combinations.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Maximum Product Subarray.py" afterPath="$PROJECT_DIR$/Maximum Product Subarray.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Permutations II.py" afterPath="$PROJECT_DIR$/Permutations II.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Permutations.py" afterPath="$PROJECT_DIR$/Permutations.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Triangle.py" afterPath="$PROJECT_DIR$/Triangle.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Word Break.py" afterPath="$PROJECT_DIR$/Word Break.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Longest Substring Without Repeating Characters.py" afterPath="$PROJECT_DIR$/Longest Substring Without Repeating Characters.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Remove Duplicates from Sorted Array.py" afterPath="$PROJECT_DIR$/Remove Duplicates from Sorted Array.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,36 +23,72 @@
     <SUITE FILE_PATH="coverage/lintcode$trapping_contain_water.coverage" NAME="trapping contain water Coverage Results" MODIFIED="1512005701351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/lintcode$Length_of_Last_Word.coverage" NAME="Length of Last Word Coverage Results" MODIFIED="1513066977040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/lintcode$Anagrams.coverage" NAME="Anagrams Coverage Results" MODIFIED="1512005402448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/lintcode$Permutations_II.coverage" NAME="Permutations II Coverage Results" MODIFIED="1514367626709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lintcode$Permutations_II.coverage" NAME="Permutations II Coverage Results" MODIFIED="1520052173624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/lintcode$Unique_Paths.coverage" NAME="Unique Paths Coverage Results" MODIFIED="1513482513976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/lintcode$Spiral_Matrix_II.coverage" NAME="Spiral Matrix II Coverage Results" MODIFIED="1514210686413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/lintcode$Combination_Sum.coverage" NAME="Combination Sum Coverage Results" MODIFIED="1514111541063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/lintcode$Number_of_Islands.coverage" NAME="Number of Islands Coverage Results" MODIFIED="1512919516578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lintcode$Remove_Duplicates_from_Sorted_Array.coverage" NAME="Remove Duplicates from Sorted Array Coverage Results" MODIFIED="1520114215769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/lintcode$Search_in_Rotated_Sorted_Array.coverage" NAME="Search in Rotated Sorted Array Coverage Results" MODIFIED="1512161540221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/lintcode$Word_Ladder.coverage" NAME="Word Ladder Coverage Results" MODIFIED="1512440215256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/lintcode$sort_colors.coverage" NAME="sort colors Coverage Results" MODIFIED="1513479243648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/lintcode$Minimum_Window_Substring.coverage" NAME="Minimum Window Substring Coverage Results" MODIFIED="1513478571104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/lintcode$Interleaving_String.coverage" NAME="Interleaving String Coverage Results" MODIFIED="1514296940331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/lintcode$decode_ways.coverage" NAME="decode ways Coverage Results" MODIFIED="1512997745809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lintcode$Longest_Substring_Without_Repeating_Characters.coverage" NAME="Longest Substring Without Repeating Characters Coverage Results" MODIFIED="1520052412790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/lintcode$Maximum_Product_Subarray.coverage" NAME="Maximum Product Subarray Coverage Results" MODIFIED="1512184326848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Climbing Stairs.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Climbing Stairs.py">
+      <file leaf-file-name="manage.py" pinned="false" current-in-tab="false">
+        <entry file="file://F:/github/Django-blog/mysite/manage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+            <state relative-caret-position="322">
+              <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Triangle.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Triangle.py">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
+        <entry file="file://F:/github/Django-blog/blogproject/blogproject/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="655">
-              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="22" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#645#685#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+        <entry file="file://F:/github/Django-blog/blogproject/blog/templates/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="95" column="28" lean-forward="true" selection-start-line="95" selection-start-column="28" selection-end-line="95" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://F:/github/Django-blog/blogproject/blog/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="apps.py" pinned="false" current-in-tab="false">
+        <entry file="file://F:/github/Django-blog/blogproject/comments/apps.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -78,11 +99,25 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>entry-title</find>
+      <find>post_list</find>
+      <find>post</find>
+      <find>meta</find>
+      <find>继续阅读</find>
+      <find>main</find>
+      <find>post.body</find>
+      <find>block</find>
+      <find>User</find>
+      <find>context</find>
+      <find>cl-effect-11</find>
+    </findStrings>
     <dirStrings>
       <dir>F:\python\kaggle\Safe Driver\lintcode</dir>
     </dirStrings>
@@ -93,36 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Product of Array Exclude Itself.py" />
-        <option value="$PROJECT_DIR$/first missing positive.py" />
-        <option value="$PROJECT_DIR$/partition array.py" />
-        <option value="$PROJECT_DIR$/Remove Duplicates from Sorted Array.py" />
-        <option value="$PROJECT_DIR$/Merge Two Sorted Arrays.py" />
-        <option value="$PROJECT_DIR$/Subarray Sum Closest.py" />
-        <option value="$PROJECT_DIR$/Sqrt(x).py" />
-        <option value="$PROJECT_DIR$/Search Insert Position.py" />
-        <option value="$PROJECT_DIR$/First Position of Target.py" />
-        <option value="$PROJECT_DIR$/search for a range.py" />
-        <option value="$PROJECT_DIR$/Search in Rotated Sorted Array II.py" />
-        <option value="$PROJECT_DIR$/Delete Digits.py" />
-        <option value="$PROJECT_DIR$/Find Minimum in Rotated Sorted Array .py" />
-        <option value="$PROJECT_DIR$/Copy List with Random Pointer.py" />
-        <option value="$PROJECT_DIR$/Remove Duplicates from Sorted List II.py" />
-        <option value="$PROJECT_DIR$/Add Two Numbers.py" />
-        <option value="F:/Django/zqxt_views/zqxt_views/settings.py" />
-        <option value="F:/Django/zqxt_views/calc/views.py" />
-        <option value="F:/Django/zqxt_views/zqxt_views/urls.py" />
-        <option value="F:/Django/zqxt_tmpl/zqxt_tmpl/settings.py" />
-        <option value="F:/Django/zqxt_tmpl/zqxt_tmpl/urls.py" />
-        <option value="F:/Django/zqxt_tmpl/learn/views.py" />
-        <option value="F:/Django/zqxt_tmpl/learn/templates/home.html" />
-        <option value="F:/Django/blogproject/blogproject/settings.py" />
-        <option value="F:/Django/blogproject/blog/models.py" />
-        <option value="F:/Django/blogproject/blogproject/urls.py" />
-        <option value="F:/Django/blogproject/blog/templates/blog/index.html" />
-        <option value="F:/Django/blogproject/blog/admin.py" />
-        <option value="F:/Django/blogproject/blog/urls.py" />
-        <option value="$PROJECT_DIR$/Balanced Binary Tree.py" />
         <option value="$PROJECT_DIR$/Search Range in Binary Search Tree.py" />
         <option value="$PROJECT_DIR$/Remove Node in Binary Search Tree.py" />
         <option value="$PROJECT_DIR$/Combination Sum.py" />
@@ -144,11 +149,48 @@
         <option value="$PROJECT_DIR$/Longest Increasing Subsequence.py" />
         <option value="$PROJECT_DIR$/Best Time to Buy and Sell Stock III.py" />
         <option value="$PROJECT_DIR$/Maximum Subarray II.py" />
+        <option value="$PROJECT_DIR$/Ugly Number II.py" />
+        <option value="F:/Django/blogproject/blog/urls.py" />
+        <option value="F:/github/Django-blog/blogproject/blog/admin.py" />
+        <option value="F:/github/Django-blog/mysite/mysite/settings.py" />
+        <option value="F:/github/Django-blog/mysite/polls/models.py" />
+        <option value="F:/github/Django-blog/mysite/polls/admin.py" />
+        <option value="F:/github/Django-blog/mysite/mysite/urls.py" />
+        <option value="F:/github/Django-blog/mysite/polls/templates/polls/detail.html" />
+        <option value="F:/github/Django-blog/mysite/polls/templates/polls/index.html" />
+        <option value="F:/github/Django-blog/mysite/polls/urls.py" />
+        <option value="F:/github/Django-blog/mysite/polls/views.py" />
+        <option value="F:/github/Django-blog/mysite/polls/templates/polls/results.html" />
+        <option value="F:/github/Django-blog/mysite/polls/tests.py" />
+        <option value="F:/github/Django-blog/blogproject/blog/templates/blog/single.html" />
+        <option value="F:/github/Django-blog/blogproject/blog/templates/blog/index.html" />
+        <option value="F:/github/Django-blog/blogproject/blog/models.py" />
+        <option value="F:/github/Django-blog/blogproject/blog/templatetags/__init__.py" />
+        <option value="F:/github/Django-blog/blogproject/blog/templatetags/blog_tags.py" />
+        <option value="F:/github/Django-blog/blogproject/blog/urls.py" />
+        <option value="F:/github/Django-blog/blogproject/blogproject/settings.py" />
+        <option value="F:/github/Django-blog/blogproject/comments/forms.py" />
+        <option value="F:/github/Django-blog/blogproject/comments/urls.py" />
+        <option value="F:/github/Django-blog/blogproject/blogproject/urls.py" />
+        <option value="F:/github/Django-blog/blogproject/comments/views.py" />
+        <option value="F:/github/Django-blog/blogproject/blog/views.py" />
+        <option value="F:/github/Django-blog/blogproject/blog/templates/blog/detail.html" />
+        <option value="F:/github/Django-blog/blogproject/comments/models.py" />
+        <option value="$PROJECT_DIR$/Longest Substring Without Repeating Characters.py" />
+        <option value="$PROJECT_DIR$/Remove Duplicates from Sorted Array.py" />
+        <option value="F:/github/Django-blog/blogproject/blog/templates/base.html" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
@@ -188,24 +230,62 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="lintcode" type="cbb8eebc:String" user="lintcode" />
+              <item name="F:\github\Django-blog" type="cbb8eebc:String" user="F:\github\Django-blog" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="F:\github\Django-blog" type="cbb8eebc:String" user="F:\github\Django-blog" />
+              <item name="blogproject" type="cbb8eebc:String" user="blogproject" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="F:\github\Django-blog" type="cbb8eebc:String" user="F:\github\Django-blog" />
+              <item name="blogproject" type="cbb8eebc:String" user="blogproject" />
+              <item name="blog" type="cbb8eebc:String" user="blog" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="F:\github\Django-blog" type="cbb8eebc:String" user="F:\github\Django-blog" />
+              <item name="blogproject" type="cbb8eebc:String" user="blogproject" />
+              <item name="blog" type="cbb8eebc:String" user="blog" />
+              <item name="templates" type="cbb8eebc:String" user="templates" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="F:\github\Django-blog" type="cbb8eebc:String" user="F:\github\Django-blog" />
+              <item name="blogproject" type="cbb8eebc:String" user="blogproject" />
+              <item name="blog" type="cbb8eebc:String" user="blog" />
+              <item name="templatetags" type="cbb8eebc:String" user="templatetags" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="F:\github\Django-blog" type="cbb8eebc:String" user="F:\github\Django-blog" />
+              <item name="blogproject" type="cbb8eebc:String" user="blogproject" />
+              <item name="blogproject" type="cbb8eebc:String" user="blogproject" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="F:\github\Django-blog" type="cbb8eebc:String" user="F:\github\Django-blog" />
+              <item name="blogproject" type="cbb8eebc:String" user="blogproject" />
+              <item name="comments" type="cbb8eebc:String" user="comments" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="F:/Django" />
+    <property name="last_opened_file_path" value="F:/github/Django-blog" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -219,25 +299,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Permutations II">
-    <configuration name="Combinations" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="lintcode" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Combinations.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.Remove Duplicates from Sorted Array">
     <configuration name="Interleaving String" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -252,6 +314,24 @@
       <module name="lintcode" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interleaving String.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Longest Substring Without Repeating Characters" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lintcode" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Longest Substring Without Repeating Characters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -274,7 +354,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Remove Duplicates from Sorted Array II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Remove Duplicates from Sorted Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -287,7 +367,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="lintcode" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Remove Duplicates from Sorted Array II.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Remove Duplicates from Sorted Array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -311,19 +391,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Combinations" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Remove Duplicates from Sorted Array II" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Spiral Matrix II" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Interleaving String" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Permutations II" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Spiral Matrix II" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Interleaving String" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Permutations II" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Longest Substring Without Repeating Characters" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Remove Duplicates from Sorted Array" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Permutations II" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Interleaving String" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Spiral Matrix II" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Remove Duplicates from Sorted Array II" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Combinations" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Remove Duplicates from Sorted Array" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Longest Substring Without Repeating Characters" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Permutations II" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Interleaving String" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Spiral Matrix II" />
       </list>
     </recent_temporary>
   </component>
@@ -341,45 +421,46 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21888413" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38787553" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979977" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979977" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286219" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286219" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979977" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979977" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286219" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286219" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979977" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21566524" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979977" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35622317" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -409,238 +490,244 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="33" />
+      <option name="time" value="48" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Subarray Sum Closest.py">
+    <entry file="file://F:/Django/Django-blog-tutorial/blogproject/blogproject/settings.py" />
+    <entry file="file://F:/Django/Django-blog-tutorial/blogproject/blogproject/__init__.py" />
+    <entry file="file://F:/Django/Django-blog-tutorial/blogproject/blogproject/wsgi.py" />
+    <entry file="file://F:/Django/blogproject/blog/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        <state relative-caret-position="425">
+          <caret line="47" column="20" lean-forward="false" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sqrt(x).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="655">
-          <caret line="33" column="20" lean-forward="false" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Search Insert Position.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="38" lean-forward="false" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/First Position of Target.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="17" lean-forward="false" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/search for a range.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Search in Rotated Sorted Array II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="38" column="20" lean-forward="false" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Delete Digits.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Copy List with Random Pointer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="747">
-          <caret line="38" column="20" lean-forward="false" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Subarray Sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Remove Duplicates from Sorted List II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Find Minimum in Rotated Sorted Array .py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Next Permutation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Add Two Numbers.py">
+    <entry file="file://F:/Django/blogproject/blogproject/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/Django/zqxt_views/zqxt_views/settings.py" />
-    <entry file="file://F:/Django/zqxt_views/calc/models.py" />
-    <entry file="file://F:/Django/zqxt_views/calc/views.py" />
-    <entry file="file://F:/Django/zqxt_views/zqxt_views/urls.py" />
-    <entry file="file://F:/Django/zqxt_tmpl/zqxt_tmpl/settings.py" />
-    <entry file="file://F:/Django/zqxt_tmpl/learn/templates/home.html" />
-    <entry file="file://F:/Django/zqxt_tmpl/learn/views.py" />
-    <entry file="file://F:/Django/zqxt_tmpl/zqxt_tmpl/urls.py" />
-    <entry file="file://F:/Django/zqxt_tmpl/learn/models.py" />
-    <entry file="file://F:/Django/blogproject/blogproject/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-345">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://F:/Django/django-blog-tutorial-templates-master/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="296" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/Django/blogproject/blog/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-725">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#28#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/Django/blogproject/blog/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/Django/blogproject/blog/templates/blog/index.html">
+    <entry file="file://F:/Django/blogproject/blog/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
-          <caret line="73" column="27" lean-forward="true" selection-start-line="73" selection-start-column="27" selection-end-line="73" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Balanced Binary Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="747">
-          <caret line="33" column="53" lean-forward="false" selection-start-line="33" selection-start-column="53" selection-end-line="33" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Search Range in Binary Search Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="31" column="18" lean-forward="false" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Remove Node in Binary Search Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="747">
-          <caret line="37" column="47" lean-forward="false" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/N-Queens.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="30" column="19" lean-forward="false" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Combination Sum II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="24" column="69" lean-forward="false" selection-start-line="24" selection-start-column="69" selection-end-line="24" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Permutations II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" column="80" lean-forward="false" selection-start-line="19" selection-start-column="80" selection-end-line="19" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Permutations.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="678">
-          <caret line="40" column="82" lean-forward="false" selection-start-line="40" selection-start-column="82" selection-end-line="40" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Combination Sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Combinations.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="51" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Palindrome Partitioning.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unique Paths II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="26" column="29" lean-forward="false" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
-          <folding />
+          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://F:/Django/blogproject/blog/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#35#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://F:/Django/blogproject/blog/urls.py">
+    <entry file="file://F:/github/Django-blog/blogproject/blog/static/blog/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/github/Django-blog/mysite/polls/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/github/Django-blog/mysite/polls/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/github/Django-blog/mysite/mysite/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-483">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/github/Django-blog/mysite/polls/templates/polls/results.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/github/Django-blog/mysite/polls/templates/polls/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/github/Django-blog/mysite/polls/templates/polls/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="80" lean-forward="false" selection-start-line="10" selection-start-column="78" selection-end-line="10" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/github/Django-blog/mysite/polls/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/github/Django-blog/mysite/polls/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="70" lean-forward="true" selection-start-line="16" selection-start-column="70" selection-end-line="16" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/github/Django-blog/mysite/polls/statics/polls/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/github/Django-blog/mysite/polls/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="68" lean-forward="true" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/github/Django-blog/mysite/mysite/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/github/Django-blog/mysite/polls/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/github/Django-blog/blogproject/blog/templates/blog/single.html" />
+    <entry file="file://F:/github/Django-blog/mysite/polls/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-518">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/github/Django-blog/blogproject/blog/templates/blog/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/github/Django-blog/blogproject/comments/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/github/Django-blog/blogproject/comments/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-69">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/github/Django-blog/blogproject/blog/templates/blog/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="989">
+          <caret line="43" column="40" lean-forward="true" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Remove Duplicates from Sorted List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Remove Duplicates from Sorted Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="27" column="17" lean-forward="false" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Longest Substring Without Repeating Characters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sqrt(x).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/github/Django-blog/blogproject/blog/static/blog/js/modernizr.custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/github/Django-blog/blogproject/blog/static/blog/js/pace.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/github/Django-blog/blogproject/blog/static/blog/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/github/Django-blog/blogproject/blog/static/blog/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4485">
+          <caret line="195" column="30" lean-forward="false" selection-start-line="195" selection-start-column="30" selection-end-line="195" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/github/Django-blog/mysite/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/github/Django-blog/blogproject/blog/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/github/Django-blog/blogproject/blog/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -650,93 +737,127 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://F:/Django/blogproject/blogproject/urls.py">
+    <entry file="file://F:/github/Django-blog/blogproject/blog/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="20" column="34" lean-forward="false" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#645#685#0" expanded="false" />
+            <element signature="e#0#32#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Climbing Stairs.py">
+    <entry file="file://F:/github/Django-blog/blogproject/blog/tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Maximum Product Subarray.py">
+    <entry file="file://F:/github/Django-blog/blogproject/manage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="32" column="19" lean-forward="false" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Word Break.py">
+    <entry file="file://F:/github/Django-blog/blogproject/comments/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="747">
-          <caret line="58" column="29" lean-forward="false" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/###wordBreak.py">
+    <entry file="file://F:/github/Django-blog/blogproject/comments/forms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="747">
-          <caret line="58" column="29" lean-forward="false" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#24#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/github/Django-blog/blogproject/blog/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/github/Django-blog/blogproject/comments/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Minimum Subarray.py">
+    <entry file="file://F:/github/Django-blog/blogproject/blog/templatetags/blog_tags.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#34#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/github/Django-blog/blogproject/blog/templatetags/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Longest Increasing Subsequence.py">
+    <entry file="file://F:/github/Django-blog/blogproject/blogproject/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Best Time to Buy and Sell Stock III.py">
+    <entry file="file://F:/github/Django-blog/blogproject/comments/apps.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="49" column="30" lean-forward="true" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Maximum Subarray II.py">
+    <entry file="file://F:/github/Django-blog/blogproject/blog/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="747">
-          <caret line="46" column="18" lean-forward="false" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+        <state relative-caret-position="253">
+          <caret line="95" column="28" lean-forward="true" selection-start-line="95" selection-start-column="28" selection-end-line="95" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Backpack.py">
+    <entry file="file://F:/github/Django-blog/blogproject/blog/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="18" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Triangle.py">
+    <entry file="file://F:/github/Django-blog/blogproject/blogproject/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="655">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="22" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#645#685#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
